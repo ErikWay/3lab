@@ -20,4 +20,4 @@ except Exception as e:
  print('Error!')
 ard.close()
 time.sleep(1)
-print(msg_str_)
+print(msg_str_) 
